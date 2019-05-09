@@ -5,7 +5,7 @@ This repository is home to the 2019 Pinnacle High School Computer Game made by H
 Hi This is the Pinnacle HighSchool Computer Game and simulation Submission for the 2019 State FBLA Conference
 
 PLEASE FOLLOW THESE DIRECTIONS EXPLICITLY!!
-SS
+
 Below are specific instructions for opening and running out the game.
 
 1.Navigate to https://github.com/HPaoletti/FBLA_Computer_Game_2019 if not already done so.
